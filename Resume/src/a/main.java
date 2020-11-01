@@ -17,6 +17,7 @@ public class main {
 		System.out.println("RESUME \n");
 		
 		//biodata
+		/*
 		b.name();
 		b.dob();
 		b.age();
@@ -24,6 +25,8 @@ public class main {
 		b.citizenship();
 		b.homeaddress();
 		b.handphoneno();
+		*/
+		b.printbio();
 		
 		c2.printcgpa();
 		
