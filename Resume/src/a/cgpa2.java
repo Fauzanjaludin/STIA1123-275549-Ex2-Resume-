@@ -14,6 +14,10 @@ public class cgpa2 {
 		
 	}
 	
+	cgpa2(double[] a){
+		this.gpa= a;
+	}
+	
 	public void printcgpa() {
 		cgpa2 c2=new cgpa2();
 		

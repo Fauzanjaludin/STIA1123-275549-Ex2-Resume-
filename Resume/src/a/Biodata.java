@@ -16,6 +16,18 @@ public class Biodata {
 		
 	}
 	
+	Biodata(String n,String g,String d,String a,String m,String c,String h,String p){
+		this.name=n;
+		this.gender=g;
+		this.dob=d;
+		this.age=a;
+		this.marital=m;
+		this.citizenship=c;
+		this.homeadd=h;
+		this.phoneno=p;
+		
+	}
+	
 	
 	public void printbio() {
 		Biodata bd=new Biodata();
