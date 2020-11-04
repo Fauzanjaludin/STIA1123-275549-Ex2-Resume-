@@ -18,16 +18,16 @@ public class Biodata {
 	
 	
 	public void printbio() {
-		Biodata bb=new Biodata();
+		Biodata bd=new Biodata();
 		
-		System.out.println("NAME                 : "+bb.name);
-		System.out.println("GENDER               : "+bb.gender);
-		System.out.println("DATE OF BIRTH        : "+bb.dob);
-		System.out.println("AGE                  : "+bb.age);
-		System.out.println("MARITAL STATUS       : "+bb.marital);
-		System.out.println("CITIZENSHIP          : "+bb.citizenship);
-		System.out.println("HOME ADDRESS         : "+bb.homeadd);
-		System.out.println("HANDPHONE NO.        : "+bb.phoneno);
+		System.out.println("NAME                 : "+bd.name);
+		System.out.println("GENDER               : "+bd.gender);
+		System.out.println("DATE OF BIRTH        : "+bd.dob);
+		System.out.println("AGE                  : "+bd.age);
+		System.out.println("MARITAL STATUS       : "+bd.marital);
+		System.out.println("CITIZENSHIP          : "+bd.citizenship);
+		System.out.println("HOME ADDRESS         : "+bd.homeadd);
+		System.out.println("HANDPHONE NO.        : "+bd.phoneno);
 	}
 	
 	

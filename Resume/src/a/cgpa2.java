@@ -20,7 +20,7 @@ public class cgpa2 {
 		System.out.println("GPA                  :");
 		
 		for(int i=0;i<c2.gpa.length;i++) {
-			System.out.println("                     :"+(i+1)+" . "+c2.gpa[i]);
+			System.out.println("                     :Sem "+(i+1)+" . "+c2.gpa[i]);
 			sum+=c2.gpa[i];
 			
 			
